@@ -1,0 +1,28 @@
+{
+    "name": "GrupoN8/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angel Diaz Sanchez",
+            "email": "addiazs@unicah.com"
+        },
+        {
+            "name": "Arturo Jovel Herrera",
+            "email": "arturojovelherrera@gmail.com"
+        },
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
